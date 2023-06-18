@@ -1,2 +1,2 @@
 # NoteTaker
-Attempt at making a note taking app using java
+Attempt at making a note taking app using java and html
